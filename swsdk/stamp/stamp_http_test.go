@@ -6,10 +6,10 @@ import (
 	"strings"
 	"testing"
 
-	_ "github.com/lunasoft/sw-sdk-go/internal/testsupport"
-	"github.com/lunasoft/sw-sdk-go/swsdk/autenticacion"
-	"github.com/lunasoft/sw-sdk-go/swsdk/helpers"
-	"github.com/lunasoft/sw-sdk-go/swsdk/issue"
+	_ "github.com/swsapiendev/sw-sdk-go/internal/testsupport"
+	"github.com/swsapiendev/sw-sdk-go/swsdk/autenticacion"
+	"github.com/swsapiendev/sw-sdk-go/swsdk/helpers"
+	"github.com/swsapiendev/sw-sdk-go/swsdk/issue"
 )
 
 // Emite un CFDI y lo envía a timbrar de nuevo: el servicio responde 307

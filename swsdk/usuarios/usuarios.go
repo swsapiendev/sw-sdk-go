@@ -1,7 +1,7 @@
 package usuarios
 
 import (
-	"github.com/lunasoft/sw-sdk-go/swsdk/autenticacion"
+	"github.com/swsapiendev/sw-sdk-go/swsdk/autenticacion"
 )
 
 // Usuario representa un usuario del sistema

@@ -490,7 +490,7 @@ if err != nil {
 
 ## Soporte
 
-**Repositorio:** [lunasoft/sw-sdk-go](https://github.com/lunasoft/sw-sdk-go)
+**Repositorio:** [swsapiendev/sw-sdk-go](https://github.com/swsapiendev/sw-sdk-go)
 **Colaborador:** David Ernesto Reyes Ayala  
 
 

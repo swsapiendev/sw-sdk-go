@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	_ "github.com/lunasoft/sw-sdk-go/internal/testsupport"
-	"github.com/lunasoft/sw-sdk-go/swsdk/autenticacion"
+	_ "github.com/swsapiendev/sw-sdk-go/internal/testsupport"
+	"github.com/swsapiendev/sw-sdk-go/swsdk/autenticacion"
 )
 
 func TestCrearUsuario(t *testing.T) {

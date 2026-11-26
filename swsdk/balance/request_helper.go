@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-	"github.com/lunasoft/sw-sdk-go/swsdk"
-	"github.com/lunasoft/sw-sdk-go/swsdk/autenticacion"
+	"github.com/swsapiendev/sw-sdk-go/swsdk"
+	"github.com/swsapiendev/sw-sdk-go/swsdk/autenticacion"
 )
 
 // AddStampsRequest representa la estructura para añadir timbres

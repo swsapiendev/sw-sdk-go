@@ -3,7 +3,7 @@ package validacion
 import (
 	"testing"
 
-	_ "github.com/lunasoft/sw-sdk-go/internal/testsupport"
+	_ "github.com/swsapiendev/sw-sdk-go/internal/testsupport"
 )
 
 const testXMLPath = "../../extras/cfdi40.xml"
