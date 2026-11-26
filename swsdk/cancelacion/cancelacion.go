@@ -1,8 +1,8 @@
 package cancelacion
 
 import (
-	"github.com/lunasoft/sw-sdk-go/swsdk"
-	"github.com/lunasoft/sw-sdk-go/swsdk/autenticacion"
+	"github.com/swsapiendev/sw-sdk-go/swsdk"
+	"github.com/swsapiendev/sw-sdk-go/swsdk/autenticacion"
 )
 
 // CancelacionResponse representa la respuesta del endpoint de cancelación

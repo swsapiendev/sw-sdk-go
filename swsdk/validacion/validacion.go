@@ -1,7 +1,7 @@
 package validacion
 
 import (
-	"github.com/lunasoft/sw-sdk-go/swsdk/autenticacion"
+	"github.com/swsapiendev/sw-sdk-go/swsdk/autenticacion"
 )
 
 // ValidarCFDI valida un archivo XML de CFDI
