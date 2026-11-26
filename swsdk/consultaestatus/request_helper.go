@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-	"github.com/lunasoft/sw-sdk-go/swsdk"
+	"github.com/swsapiendev/sw-sdk-go/swsdk"
 )
 
 // ConsultaEstatusResponse representa la respuesta de consulta de estatus

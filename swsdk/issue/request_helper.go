@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/lunasoft/sw-sdk-go/swsdk"
+	"github.com/swsapiendev/sw-sdk-go/swsdk"
 )
 
 // RequestHelper maneja todas las peticiones HTTP

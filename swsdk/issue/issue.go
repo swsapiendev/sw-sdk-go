@@ -1,8 +1,8 @@
 package issue
 
 import (
-	"github.com/lunasoft/sw-sdk-go/swsdk"
-	"github.com/lunasoft/sw-sdk-go/swsdk/autenticacion"
+	"github.com/swsapiendev/sw-sdk-go/swsdk"
+	"github.com/swsapiendev/sw-sdk-go/swsdk/autenticacion"
 )
 
 // IssueResponse representa la respuesta del endpoint de emisión

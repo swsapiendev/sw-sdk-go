@@ -4,9 +4,9 @@ import (
 	"os"
 	"testing"
 
-	_ "github.com/lunasoft/sw-sdk-go/internal/testsupport"
-	"github.com/lunasoft/sw-sdk-go/swsdk/autenticacion"
-	"github.com/lunasoft/sw-sdk-go/swsdk/helpers"
+	_ "github.com/swsapiendev/sw-sdk-go/internal/testsupport"
+	"github.com/swsapiendev/sw-sdk-go/swsdk/autenticacion"
+	"github.com/swsapiendev/sw-sdk-go/swsdk/helpers"
 )
 
 func TestIssueV1(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/lunasoft/sw-sdk-go/swsdk"
+	"github.com/swsapiendev/sw-sdk-go/swsdk"
 )
 
 // SWClient represents the main client for SW services
